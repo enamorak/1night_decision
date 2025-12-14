@@ -1,11 +1,10 @@
 
-  # PetroControl PRO Platform
+  # by 1night decision
 
-  This is a code bundle for PetroControl PRO Platform. The original project is available at https://www.figma.com/design/LFjBpAmM4Cc2g4gEoidHHg/PetroControl-PRO-Platform.
 
-  ## Running the code
+  ## Запуск кода
 
-  Run `npm i` to install the dependencies.
+  Команда `npm i` для установки зависимостей.
 
-  Run `npm run dev` to start the development server.
+Команда `npm run dev` для запуска сервера разработки.
   
